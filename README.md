@@ -1,6 +1,6 @@
 # DialGNN
 
-## the reproduction of DialGNN, the instructions of source code 
+## the reproduction of DialGNN, the instructions of source code:
 1. Concatenate the data/xcs_data_* to one file.
 2. preprocess_al.py: preprocess alibaba dataset
 3. calw2c_tfidf, calw2s_tfidf: calculate the tfidf for sentences and conversation.
